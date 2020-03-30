@@ -1,0 +1,8 @@
+POST / HTTP/1.1
+Host: 172.17.0.2:8443
+User-Agent: curl/7.58.0
+Accept: */*
+Content-Length: 45
+Content-Type: application/x-www-form-urlencoded
+
+flag=247CTF{3693df4d4c007662b7131e7b94c9e9c3}
